@@ -1,0 +1,16 @@
+1.Faça  um  algoritmo  que  construa  uma  matriz  de  nome  MAT  de  10  linhas  e  15  colunas  contendo números  inteiros.  Em  seguida  escreva  a  soma  dos  elementos  de  cada  linha  e  se  a  soma  dos elementos é par ou impar. Por fim escreva a soma dos elementos de cada coluna e se a soma dos elementos é par ou impar. 
+
+2.Faça  um  algoritmo  que  construa  uma  matriz  50  por  50  de  números  reais  e  depois  de  construída, colocar  o  conteúdo  de  sua  diagonal  principal  dentro  de  um  vetor  e  depois  do  vetor  montado, imprimir o vetor. 
+
+3.Faça  um  programa  que  gere  uma  matriz  transposta  (Matriz  transposta  é  toda  a  matriz  onde  são trocadas as linhas pelas colunas, ou vice-versa). 
+
+4.Faça um programa que faça a multiplicação de duas matrizes. 
+
+5.Faça um programa que faça a soma de duas matrizes. 
+
+6.Faça um programa que deverá permitir que o usuário entre com os valores dos elementos de uma matriz quadrada de ordem 4 e possibilite o usuário realizar as seguintes funcionalidades:  a)Imprimir todos os elementos da matriz;  
+
+b)Somar os quadrados de todos os elementos da primeira coluna;   
+c)Somar todos os elementos da terceira linha;   
+d)Somar os elementos da diagonal principal; 
+e)Somar todos os elementos de índice par da segunda linha.  
